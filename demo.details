@@ -1,0 +1,4 @@
+name: version_compare.js
+description: Compare two program versions in javascript
+authors:
+  - Andrew Lushchick
